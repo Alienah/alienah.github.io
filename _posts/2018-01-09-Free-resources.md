@@ -3,9 +3,8 @@ layout: post
 title:  "Free Resources For The Front-End developer"
 subtitle : "Step by step."
 date:   2018-01-09 10:45:13 -0400
-header-img: "/img/posts/free-resources_background.jpeg"
-author: "Shikher Verma"
-header-img: "img/posts/android-bg.jpg"
+header-img: "img/posts/free-resources_background.jpeg"
+author: "Aida Albarrán and Mónica Aguado"
 comments: true
 tags: [TipsAndResources]
 ---
@@ -16,12 +15,14 @@ Maybe you already know about some of them, or all, but we hope you find this art
 
 We have focused on six resources we found useful however, there are many more.
 
-1. Code Pen.
+## 1. Code Pen.
 
-Codepen is an online tester to try the code in HTML, CSS and Javascript. You can sign in to save your work, and you can share it with other people, for example; to explain some part of code. Codepen is a social network too. At first, you have to login in the app to share codes. Then, if you are searching for a question, you can discover a lot of works that other people share and people can see your work. Codepen is very useful. We use it all the time to test and learn more. ![Code-pen web](/img/posts/free-resources_code-pen.png)
+Codepen is an online tester to try the code in HTML, CSS and Javascript. You can sign in to save your work, and you can share it with other people, for example; to explain some part of code. Codepen is a social network too. At first, you have to login in the app to share codes. Then, if you are searching for a question, you can discover a lot of works that other people share and people can see your work. Codepen is very useful. We use it all the time to test and learn more. 
+
+![Code-pen web](/img/posts/free-resources_code-pen.png)
 
 
-2. MDN web docs of Mozilla.
+## 2. MDN web docs of Mozilla.
 
 ![MDN Mozilla logo](/img/posts/free-resources_mozilla.png)
 
@@ -34,7 +35,7 @@ Development of applications for Open Web.
 And also Development of add-ons for Firefox.
 
 
-3. Learning with games
+## 3. Learning with games
 
 If you want to understand the concepts better or you want to practise, you can access to a few original resources like the next ones:
 
@@ -50,7 +51,7 @@ If you want to understand the concepts better or you want to practise, you can a
 
 ![Diner game](/img/posts/free-resources_dinner.png)
 
-4. Loupe
+## 4. Loupe
 
 [Loupe](http://latentflip.com/loupe/) is a tool to visualize how JavaScripts Callback Queue and Event Loop interact.
 
@@ -61,21 +62,21 @@ The basis of Loupe working is the interaction between several windows. When you 
 ![Loupe tool image](/img/posts/free-resources_loupe.png)
 
 
-5. Stack overflow
+## 5. Stack overflow
 
 This web is very helpful when you learn a little more. When you manage HTML, CSS & Javascript, and have problems with a code or with a project in particular, you can ask other people in this forum. Write a ticket and then the community helps you with the error. If you prefer, there is a list of the most popular questions (FAQs) and you can write down the answers. You can help other people too. This work area is very solidarity and is always open source.
 
 ![Stack-overflow image](/img/posts/free-resources_stack-overflow.png)
 
 
-6. GitHub Awesome
+## 6. GitHub Awesome
 
 Maybe you know GitHub already. But maybe you don’t capitalize on all of its full potential. GitHub has a lot of functions. Now we talk about one of these: Awesome. This function is a list where you can find a lot of resources that other people share in GitHub: lessons, ebooks, bookshops… You write ‘awesome’ in the search box and you can see all the material. You can choose the language about your query, or looking for the repository you need.
 
 ![Diner game](/img/posts/free-resources_github-awesome.png)
 
 
-##Open source
+## Open source
 
 As you can see, there are lots of webs and apps to make life easier in the Web Development world. If you searched more in Google you will find help for all these tools and much more than in the Front-End world which is good to know. This is the advantage in this work area: you can solve all the problems and errors because development is open source.
 
