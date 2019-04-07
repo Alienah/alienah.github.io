@@ -1,0 +1,86 @@
+---
+layout: page
+title : Sobre mí
+header-img: "img/home-bg.jpg"
+description: "Este es el blog de una developer con ansias de aprender."
+---
+
+<!-- About Content -->
+<section id="about">
+    <div>
+        <p>Soy Aida Albarrán y vengo con un background en la mochila muy variopinto. Soy licenciada en Psicología, con formación en Orientación y Terapia Sexual y Recursos Humanos. Ahora soy Front-end y seré una #adalaber para toda la vida, pero también he sido cantante, he trabajado mucho tiempo de cara al público en ventas y como técnico de Recursos Humanos.</p>
+
+        <p class="mb-5">Actualmente trabajo como Front-End Developer en KairosDS, soy amante de Javascript y de la lógica y tengo muchas ganas de seguir aprendiendo de esta apasionante profesión que ofrece tanto.</p>
+    </div>
+</section>
+
+<!-- Portfolio Grid Section -->
+<!-- <section id="portfolio">
+    <div class="row">
+        <div class="text-center">
+            <h2>Here's the stuff I've yet to disavow.</h2>
+            <hr>
+        </div>
+    </div>
+
+    <div class="row">
+        {% for item in site.portfolio %}
+        <div class="col-sm-4 portfolio-item">
+            <a href="#{{ item.anchor }}" class="portfolio-link" data-keyboard="true" data-toggle="modal">
+                <div class="caption">
+                    <div class="caption-content">
+                        {{ item.title }}<p></p>
+                        <i class="fa fa-search-plus"></i>
+                        <p></p>
+                        Category: {{ item.category }}
+                    </div>
+                </div>
+                <img src="{{ item.image }}" class="img-responsive" alt="">
+            </a>
+        </div>
+        {% endfor %}
+</section> -->
+
+<!-- Portfolio Modals -->
+<!-- <section id="portfolio modals">
+    {% for item in site.portfolio %}
+    <div class="portfolio-modal modal fade" id="{{ item.anchor }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>{{ item.title }}</h2>
+                            <hr class="star-primary">
+                            <img src="{{ item.image }}" class="img-responsive img-centered" alt="">
+                            <p>{{ item.description }}</p>
+                            <ul class="list-inline item-details">
+                                <li>Team:
+                                    <strong>{{ item.team }}
+                                    </strong>
+                                </li>
+                                <li>Date:
+                                    <strong>{{ item.date | date: '%B %Y' }}
+                                    </strong>
+                                </li>
+                                <li>Category:
+                                    <strong>{{ item.category }}
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i
+                                    class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</section> -->
