@@ -3,7 +3,7 @@ layout: post
 title:  "Free Resources For The Front-End developer"
 subtitle : "Step by step."
 date:   2018-01-09 10:45:13 -0400
-header-img: "img/posts/free-resources_background.jpeg"
+header-img: "img/posts/jekyll-bg.jpg"
 author: "Aida Albarrán and Mónica Aguado"
 comments: true
 tags: [TipsAndResources]
@@ -39,15 +39,15 @@ And also Development of add-ons for Firefox.
 
 If you want to understand the concepts better or you want to practise, you can access to a few original resources like the next ones:
 
-* Flexbox Froggy. In the url “http://flexboxfroggy.com/#es”, you can find a fun game with which you can practise CSS Flexbox guiding the frog towards the food.
+__* Flexbox Froggy__. In the url “http://flexboxfroggy.com/#es”, you can find a fun game with which you can practise CSS Flexbox guiding the frog towards the food.
 
 ![Flexbox froggy game](/img/posts/free-resources_froggy.png)
 
-* Flexbox Defense is available at http://www.flexboxdefense.com/, you can play with the towers, moving them using flexbox.
+__* Flexbox Defense__ is available at http://www.flexboxdefense.com/, you can play with the towers, moving them using flexbox.
 
 ![Flexbox defense game](/img/posts/free-resources_flexbox-defense.png)
 
-* Diner. This a game for practising the use of selectors in CSS. The website is http://flukeout.github.io/
+__* Diner__. This a game for practising the use of selectors in CSS. The website is http://flukeout.github.io/
 
 ![Diner game](/img/posts/free-resources_dinner.png)
 
