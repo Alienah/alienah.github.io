@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Combinadores, patrón módulo y composición"
 subtitle: "Pero ¡qué es todo esto!"
 date:   2018-04-26 12:00:00 -0400
