@@ -1,6 +1,7 @@
 ---
 layout: page
-title:  "Combinadores, patrón módulo y composición ¿Pero qué es todo esto?"
+title:  "Combinadores, patrón módulo y composición"
+subtitle: "Pero ¡qué es todo esto!"
 date:   2018-04-26 12:00:00 -0400
 header-img: "img/posts/combinadores_background.jpg"
 author: "Aida Albarrán"
