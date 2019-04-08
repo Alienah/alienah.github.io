@@ -74,6 +74,8 @@ Here is a post with more information:
 There are many organizations sponsoring webpack as for example:
 
 ![Companies using webpack, as Trivago, Slack or Airbnb](/img/posts/blessed-task-runners_webpack-companies.png)
+![Companies using webpack, as Trivago, Slack or Airbnb](/img/posts/blessed-task-runners_webpack-companies2.png)
+![Companies using webpack, as Trivago, Slack or Airbnb](/img/posts/blessed-task-runners_webpack-companies3.png)
 
 
 
@@ -81,4 +83,4 @@ As you can see, more and more developers are joining the use of these wonderful 
 
 Autors: Aida Albarrán and [Mónica Aguado](https://medium.com/@MoniAguado)
 
-Image of background source: <blog.qmo.io>
+Image of background source: blog.qmo.io
