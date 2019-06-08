@@ -124,4 +124,4 @@ function encriptaPalabras(encriptaPalabra) {  //Función parámetro que variará
 
 Tendríamos dos funciones *encriptaPalabraSuperBien(palabra)* y *encriptaPalabraDeOtraForma(palabra)*, que tienen algoritmos distintos, pero las cuales se pueden aplicar igualmente bien a la función *encriptaPalabras(aquíIríaNuestraFunción)*, que sería el destino común.
 
-Ejemplos de [Carlos Ble](https://medium.com/@Carlosble)
+Ejemplos de [Carlos Blé](https://medium.com/@Carlosble)
