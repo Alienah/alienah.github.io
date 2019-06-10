@@ -3,7 +3,7 @@ layout: post
 title:  "Sobre el Hoisting, el Scope y el Shadowing"
 subtitle: "Los conceptos que te evitarán quebraderos de cabeza..."
 date:   2018-05-19 12:00:00 -0400
-header-img: "img/posts/hoisting_background.jpeg"
+header-img: "img/posts/hoisting_background2.jpeg"
 author: "Aida Albarrán"
 comments: true
 tags: [JavaScript]
