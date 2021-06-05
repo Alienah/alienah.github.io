@@ -2,7 +2,7 @@
 layout: post
 title:  "Webpack y sus colegas"
 subtitle: "O cómo reconciliarte con Webpack y empezar una nueva vida juntos..."
-date:   2020-06-05 15:00:00 -0400
+date:   2021-06-05 15:00:00 -0400
 header-img: "img/posts/webpack_and_friends.jpg"
 author: "Aida Albarrán"
 comments: true
