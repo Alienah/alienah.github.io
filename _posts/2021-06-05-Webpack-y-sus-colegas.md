@@ -18,8 +18,7 @@ Aquí voy a hacer mención especial a Víctor Borrego, formador en el máster de
 ## ¿Qué es Webpack entonces?
 
 
-Es una librería que nos ayuda a convertir nuestro código en algo que el navegador pueda entender y que además sea lo más óptimo posible. Bueno, eso dicho a groso modo, pero más en concreto, nos va a ayuda a muchas cosas:
-
+Es una librería que nos ayuda a convertir nuestro código en algo que el navegador pueda entender y que además sea lo más óptimo posible. Bueno, esa es la explicación a groso modo, pero, si entramos en el detalle, Webpack nos va a ayudar a muchas cosas:
 
 * Si en nuestros archivos de Javascript usamos ES6, nos va a ayudar a transformarlo a ES5 y que lo puedan entender más navegadores.
 
