@@ -6,7 +6,7 @@ date:   2018-02-11 12:00:00 -0400
 header-img: "img/posts/blessed-task-runners_background.png"
 author: "Aida Albarrán and Mónica Aguado"
 comments: true
-tags: [TipsAndResources]
+tags: [TipsAndResources, Webpack]
 ---
 
 Many of the tasks we have to do as developers are repetitive such as refreshing the browser when making a change, compressing the js and css file. In addition, we have to minimize our code to gain performance.
